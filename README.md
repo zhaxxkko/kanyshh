@@ -219,12 +219,12 @@
 
   <hr>
 
-  <p>Автор: <strong>Ерқанатқызы Жансая</strong></p>
+  <p>Автор: <strong>arix</strong></p>
 
   <footer id="baylanas">
     <h2>Байланыс</h2>
-    <p>📧 Email: <a href="mailto:yerkanatzh@list.ru "> yerkanatzh@list.ru </a></p>
-    <p>📞 Телефон: <a href="tel:+77079274133">+7 (707) 9274133</a></p>
+    <p>📧 Email: <a href="mailto: arixx@list.ru "> arixx@list.ru </a></p>
+    <p>📞 Телефон: <a href="tel:ddexlm">ddexlm3</a></p>
   </footer>
 
 </body>
