@@ -224,7 +224,7 @@
   <footer id="baylanas">
     <h2>Байланыс</h2>
     <p>📧 Email: <a href="mailto: arixx@list.ru "> arixx@list.ru </a></p>
-    <p>📞 Телефон: <a href="tel:ddexlm">ddexlm3</a></p>
+    <p>📞 Telegram: <a href="tel:arixxzl"></a>arixxz</p>
   </footer>
 
 </body>
